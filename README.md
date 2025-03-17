@@ -7,3 +7,10 @@
 - **無錯誤運行**，可長時間穩定執行，無需人工干預。
 
 TG: @eric604
+
+BNB碰撞
+![圖片描述](https://github.com/eeicc/Private-key-collisions/blob/main/BNB.png)
+ETH碰撞
+![圖片描述](https://github.com/eeicc/Private-key-collisions/blob/main/ETH.png)
+SOL碰撞
+![圖片描述](https://github.com/eeicc/Private-key-collisions/blob/main/SOL.png)
